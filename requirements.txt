@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+pandas
+scikit-learn
+seaborn
+sentence-transformers
+textblob
+umap-learn
